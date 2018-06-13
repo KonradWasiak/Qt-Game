@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/BOMBAA.png</file>
+        <file>img/BOMBOWIECC.png</file>
+        <file>img/HELI.png</file>
+        <file>img/MYSLIWIECC.png</file>
+        <file>img/POCISKK.png</file>
+        <file>img/RAKIETAA.png</file>
+        <file>img/TLOGRY.png</file>
+        <file>img/PRZECIWNIKCZOLG.png</file>
+        <file>img/PRZECIWNIKSAMOLOT.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>tlosamoloty.jpg</file>
+        <file>../tlo.jpg</file>
+    </qresource>
+</RCC>
